@@ -2,8 +2,6 @@ package eu.kleinevorholt.dynamicdatastructures.list;
 
 import eu.kleinevorholt.dynamicdatastructures.component.Node;
 
-import java.util.ArrayList;
-
 public class List<E> {
 
     private Node<E> first;
